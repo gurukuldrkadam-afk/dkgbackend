@@ -16,8 +16,8 @@ const app = express();
 /* ================= ALLOWED ORIGINS ================= */
 
 const allowedOrigins = [
-  "https://drkadamgurukul.in/",
-  "http://drkadamgurukul.in/",
+  "https://drkadamgurukul.in",
+  "http://drkadamgurukul.in",
   "http://localhost:5173",
 ];
 
